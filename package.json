@@ -21,7 +21,7 @@
     "mongoose": "^7.3.4"
   },
    "scripts":{
-    "start":"npm run start",
+    "start":"node app.js",
     "build":"npm run build"
 
   },
