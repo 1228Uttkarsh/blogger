@@ -22,7 +22,7 @@
   },
    "scripts":{
     "start":"node app.js",
-    "build":"npm run build"
+
 
   },
   "devDependencies": {
